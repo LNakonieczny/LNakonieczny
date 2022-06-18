@@ -3,6 +3,13 @@
 - 🌱 I’m currently learning Python for Data Science, SQL and Power BI
 - 📌 Science career profile: https://orcid.org/0000-0002-9832-6695
 - 📌 LinkedIn profile: https://linkedin.com/in/lukasz-nakonieczny 
+
+- 🎓 Certificates:
+- - 📊 IBM Data Analyst Professional Certificate by IBM on Coursera,
+        (https://www.coursera.org/account/accomplishments/specialization/certificate/PU4TAXG6YYZC) 
+        Certificate earned at June 18, 2022
+
+
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
