@@ -5,9 +5,8 @@
 - 📌 LinkedIn profile: https://linkedin.com/in/lukasz-nakonieczny 
 
 - 🎓 Certificates:
-- - 📊 IBM Data Analyst Professional Certificate by IBM on Coursera,
+- - 📊 IBM Data Analyst Professional Certificate by IBM on Coursera, Certificate earned at June 18, 2022
         (https://www.coursera.org/account/accomplishments/specialization/certificate/PU4TAXG6YYZC) 
-        Certificate earned at June 18, 2022
 
 
 <!--- 💞️ I’m looking to collaborate on ...
