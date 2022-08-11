@@ -9,6 +9,8 @@
 - 🎓 Certificates:
 - - 📊 IBM Data Analyst Professional Certificate by IBM on Coursera, Certificate earned at June 18, 2022
         (https://www.coursera.org/account/accomplishments/specialization/certificate/PU4TAXG6YYZC) 
+- - 📊 IBM Data Science by IBM Skills Network on Coursera. Certificate earned at August 11, 2022
+        (https://www.coursera.org/account/accomplishments/specialization/certificate/P224L3VDHRVU)
 
 
 <!--- 💞️ I’m looking to collaborate on ...
