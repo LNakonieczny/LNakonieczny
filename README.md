@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LNakonieczny
 - :crystal_ball: I'm currently working at Samsung R&D Institute Poland as Data Scientist
-- 🌱 Present learning interests encompasses PySpark and Big Query
+- 🌱 Present learning interests encompasses PySpark, Big Query and Tensorflow
 
 - 📌 Science career profile: https://orcid.org/0000-0002-9832-6695
 - 📌 LinkedIn profile: https://linkedin.com/in/lukasz-nakonieczny
