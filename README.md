@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LNakonieczny
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Python for Data Science, SQL and Power BI
+- :crystal_ball: I'm currently working at Samsung R&D Institute Poland as Data Scientist
+- 🌱 Present learning interests encompasses PySpark and Big Query
 
 - 📌 Science career profile: https://orcid.org/0000-0002-9832-6695
 - 📌 LinkedIn profile: https://linkedin.com/in/lukasz-nakonieczny
