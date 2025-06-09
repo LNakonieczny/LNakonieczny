@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LNakonieczny
-- :crystal_ball: I'm currently working at Samsung R&D Institute Poland as Data Scientist
+- :crystal_ball: I'm currently working at Samsung R&D Institute Poland as Senior Data Scientist
 - 🌱 Present learning interests encompasses PySpark, Big Query and Tensorflow
 
 - 📌 Science career profile: https://orcid.org/0000-0002-9832-6695
